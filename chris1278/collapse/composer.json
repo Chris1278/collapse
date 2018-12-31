@@ -13,6 +13,7 @@
 		}
 		],
 	"require": {
+		"phpbb Version 3.2.5<
 		"php": ">=5.3.9"
 	},
 	"extra": {

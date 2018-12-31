@@ -21,7 +21,7 @@ namespace chris1278\collapse;
 class ext extends \phpbb\extension\base
 {
 	/** @var string Require phpBB 3.2.5 due to the use of new template events */
-	const PHPBB_MIN_VERSION = '3.2.4';
+	const PHPBB_MIN_VERSION = '3.2.3';
 
 	/**
 	 * Check whether or not the extension can be enabled.

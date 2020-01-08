@@ -16,10 +16,11 @@
 		"php": ">=5.3.9"
 	},
 	"extra": {
-		"display-name": "Einklapbare Forenkategorie",
+		"display-name": "Hide forum categories",
 		"soft-require": {
 			"phpbb/phpbb": " <3.2.3"
 		}
 		
 	}
 }
+

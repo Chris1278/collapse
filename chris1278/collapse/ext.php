@@ -36,3 +36,4 @@ class ext extends \phpbb\extension\base
 		return phpbb_version_compare($config['version'], self::PHPBB_MIN_VERSION, '>=');
 	}
 }
+

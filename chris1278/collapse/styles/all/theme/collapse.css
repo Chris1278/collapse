@@ -6,6 +6,15 @@
 	z-index: 1;
 }
 
+@media (max-width: 700px) {
+.trigger {
+	cursor: pointer;
+	float: right;
+	margin: -21px 8px 0 0;
+	position: relative;
+	z-index: 
+}
+
 .fa-plus:before {
 	color: #FFFFFF !important;
 }
@@ -13,3 +22,4 @@
 .fa-minus:before {
 	color: #FFFFFF !important;
 }
+

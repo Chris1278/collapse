@@ -2,7 +2,7 @@
 	"name": "chris1278/collapse",
 	"type": "phpbb-extension",
 	"description": "Ermöglicht das Ein- und Ausklappen der Forenkategorien! Diese Extension ist ursprünglich eine Funktion in dem Style Allan Style - SUBSILVER gewesen die ich dort ausgebaut habe. Diese habe ich dann in eine Extension umgewandelt.",
-	"version": "1.1.2",
+	"version": "1.1.3",
 	"time": "2018-09-17",
 	"license": "GPL-2.0",
 	"authors": [{
@@ -19,6 +19,12 @@
 		"display-name": "Hide forum categories",
 		"soft-require": {
 			"phpbb/phpbb": " <3.2.3"
+		},
+		"version-check": {
+			"host": "raw.githubusercontent.com",
+			"directory": "/Chris1278/collapse/master",
+			"filename": "collapse.json",
+			"ssl": true
 		}
 		
 	}
